@@ -25,6 +25,9 @@ Full email authentication was implemented to improve deliverability and establis
 
 These configurations help prevent spoofing, reduce the likelihood of emails being marked as spam, and support consistent delivery.
 
+![](email-auth.png)
+> Email authentication successfully validated during delivery
+
 <h2>Microsoft 365 / Outlook Email Setup</h2>
 
 Microsoft 365 was configured to manage business email using the custom domain. This process included domain verification, mailbox setup, and integration between DNS records and Microsoft services.
