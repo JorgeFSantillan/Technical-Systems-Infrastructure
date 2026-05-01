@@ -10,6 +10,9 @@ The domain was managed through GoDaddy, with DNS records configured and maintain
 
 This configuration enabled proper website loading, supported email routing, and satisfied domain verification requirements across connected platforms.
 
+![](DNS-Records.png)
+> DNS configuration showing domain routing and email authentication records.
+<br>
 <h2> Email Authentication (SPF, DKIM, DMARC)</h2>
 
 Full email authentication was implemented to improve deliverability and establish sender credibility. This included the configuration of SPF, DKIM, and DMARC records.
