@@ -27,12 +27,14 @@ These configurations help prevent spoofing, reduce the likelihood of emails bein
 
 ![](email-auth.png)
 > Email authentication successfully validated during delivery
-
+<br>
 <h2>Microsoft 365 / Outlook Email Setup</h2>
 
 Microsoft 365 was configured to manage business email using the custom domain. This process included domain verification, mailbox setup, and integration between DNS records and Microsoft services.
 
 Sender identity settings were also adjusted to ensure that outgoing emails reflected a consistent and professional business name.
+<br>
+<br>
 
 <h2>SMTP Configuration & Email Troubleshooting</h2>
 
@@ -45,8 +47,13 @@ This included:
 <li>Testing email headers to confirm SPF, DKIM, and DMARC pass status</li>
 <li>Ensuring emails were successfully delivered without being flagged or rejected</li>
 </ul>
-These steps resulted in a stable and reliable email delivery system.
 
+These steps resulted in a stable and reliable email delivery system.
+<br>
+<br>
+![](SMTP-test.png)
+> Email delivery validation and SMTP troubleshooting results.
+<br>
 <h2>Hosting Environment & SSL Configuration</h2>
 
 The hosting environment was managed through Namecheap cPanel. Core configurations were applied to support security, performance, and compatibility.
@@ -61,6 +68,6 @@ This included:
 
 <h2>Professional Takeaway</h2>
 
-A functional website depends on more than front-end development. Proper domain configuration, DNS management, email authentication, and hosting setup are critical to ensuring reliability, security, and professional operation.
+A functional website depends on more than front-end development. Proper domain configuration, DNS management, email authentication, and hosting setup are critical to ensuring reliability, security, professional operation., and much more.
 
 The result is a fully integrated system in which the website, domain, and email infrastructure operate together without conflict or delivery issues.
