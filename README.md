@@ -34,7 +34,6 @@ Microsoft 365 was configured to manage business email using the custom domain. T
 
 Sender identity settings were also adjusted to ensure that outgoing emails reflected a consistent and professional business name.
 <br>
-<br>
 
 <h2>SMTP Configuration & Email Troubleshooting</h2>
 
@@ -50,7 +49,7 @@ This included:
 
 These steps resulted in a stable and reliable email delivery system.
 <br>
-<br>
+
 ![](SMTP-test.png)
 > Email delivery validation and SMTP troubleshooting results.
 <br>
@@ -65,9 +64,14 @@ This included:
 <li>Managing PHP versions for performance and system compatibility</li>
 <li>Supporting overall site stability through hosting-level configuration</li>
 </ul>
+<br>
+
+![](cPanel.png)
+> cPanel dashboard
+<br>
 
 <h2>Professional Takeaway</h2>
 
-A functional website depends on more than front-end development. Proper domain configuration, DNS management, email authentication, and hosting setup are critical to ensuring reliability, security, professional operation., and much more.
+A functional website depends on more than front-end development. Proper domain configuration, DNS management, email authentication, and hosting setup (along with other facters) are critical to ensuring reliability, security, and professional operation.
 
 The result is a fully integrated system in which the website, domain, and email infrastructure operate together without conflict or delivery issues.
