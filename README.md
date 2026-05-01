@@ -75,3 +75,5 @@ This included:
 A functional website depends on more than front-end development. Proper domain configuration, DNS management, email authentication, and hosting setup (along with other facters) are critical to ensuring reliability, security, and professional operation.
 
 The result is a fully integrated system in which the website, domain, and email infrastructure operate together without conflict or delivery issues.
+
+[Return to Home](https://github.com/JorgeFSantillan)
